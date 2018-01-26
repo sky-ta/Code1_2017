@@ -1,0 +1,5 @@
+Images groups:
+- 1 = shibas
+- 2 = food
+- 3 = random
+- 4 = animals
